@@ -1,0 +1,6 @@
+@WideBot_Task_HostAddress = http://localhost:5232
+
+GET {{WideBot_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
